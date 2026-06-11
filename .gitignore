@@ -1,0 +1,39 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Raspberry Pi Pico build outputs
+*.bin
+*.dis
+*.elf
+*.elf.map
+*.hex
+*.uf2
+
+# Generated Pico SDK helper directories
+generated/
+pico-sdk/
+pioasm/
+pioasm-install/
+elf2uf2/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Editor/project metadata
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
