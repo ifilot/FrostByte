@@ -122,10 +122,6 @@ Flash and verification completed successfully
 FPGA boot confirmed: CDONE is high
 ```
 
-If the script reports an old `SUBZEROPR-v0.1.0` programmer ID, rebuild and
-reflash the Pico firmware first. FrostByte identifies itself as
-`FROSTBYTE-v0.1.0`.
-
 What this proves:
 
 - The FrostByte firmware responded over serial.

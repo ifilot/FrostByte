@@ -1,12 +1,13 @@
 #ifndef _CONSTANTS_H
 #define _CONSTANTS_H
 
+#define PIN_CDONE  14
+#define PIN_CRESET 15
 #define PIN_MISO   16
 #define PIN_SEL    17
 #define PIN_SCK    18
 #define PIN_MOSI   19
-#define PIN_CDONE  14
-#define PIN_CRESET 15
+
 #define PIN_LED    25
 
 // Flash commands
