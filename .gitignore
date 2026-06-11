@@ -30,6 +30,10 @@ elf2uf2/
 *.swp
 *~
 
+# Python generated files
+__pycache__/
+*.py[cod]
+
 # Editor/project metadata
 .vscode/
 .idea/
